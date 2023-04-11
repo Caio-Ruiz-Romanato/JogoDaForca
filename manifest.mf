@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Caio Ruiz
+Main-Class: Forca
+X-COMMENT: Jogo da forca
